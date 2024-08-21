@@ -13,7 +13,7 @@ export const GET: APIRoute = async ({ params, request, site }) => {
   return rss({
     // stylesheet: '/styles/rss.xsl',
     // `<title>` field in output xml
-    title: 'Fernando Blog',
+    title: 'Jeffry Blog',
     // `<description>` field in output xml
     description: 'Un simple blog sobre mis aventura con Astro',
 
